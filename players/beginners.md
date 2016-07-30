@@ -77,8 +77,8 @@ The first and most important part of what describes your character on the charac
 
 The core ability scores that describe every character are:
 - Strength __(STR)__: This describes how physically strong your character is. Players with high strength scores are usually warriors, adept at hand-to-hand combat.
-- Dexterity __(DEX)__: Dexterity is like agility, and describes how nimble your character is. Players with high dexterity scores usually have good fine motor skills and are usually good with weapons at a distance, like bows and arrows, or with small hand-to-hand weapons, like daggers.
-- Constitution __(CON)__: This score is how resilient you are to damage and how 'healthy' you are. Players with high constitution scores usually are harder to kill.
+- Dexterity __(DEX)__: Dexterity is like agility, and describes how nimble your character is. Players with high dexterity scores usually have developed fine motor skills and are usually good with weapons at a distance, like bows and arrows, or with small hand-to-hand weapons, like daggers.
+- Constitution __(CON)__: This score is how resilient you are to damage and how 'healthy' you are. Players with high constitution scores are usually harder to kill.
 - Intelligence __(INT)__: Intelligence describes what you might call "book learning". A player with a lot of formal study under their belt might have a high intelligence score.
 - Wisdom __(WIS)__: Wisdom is what you might call "practical knowledge". A high wisdom score is indicative of someone who has a lot of experience in the wilderness, or who can guess at someone's intentions more easily than others.
 - Charisma __(CHA)__: This score describes how good you are at speaking to others. Players who specialize in charisma can persuade others, lie more easily, and bluff their way out of situations better than most.
@@ -93,7 +93,7 @@ Once you have these numbers, you need to calculate your *Ability Score Modifiers
 
 > __NOTE:__ __Modifiers__ add a number to a die roll, and either add more to the total or subtract from it. Using the shorthand for dice mentioned above, we denote modifiers as either '+' or '-'. A modifier of __+2__ added to a die roll of __3d6__ would be described as __3d6+2__. You would calculate this by rolling __3d6__, taking the total from the dice, and adding two to that number.
 
-Ability score modifiers are what you will use instead of your actual ability scores. These are the numbers that matter when you actually roll the dice. The ability score modifiers, though, are calculated using your ability scores. To calculate the ability score modifiers, take your ability score, subtract 10, divide by 2, and round up to the nearest whole number. This is what you will write in the large boxes which contain your ability scores on your character sheet.
+Ability score modifiers are what you will use instead of your actual ability scores. These are the numbers that matter when you actually roll the dice. The ability score modifiers, though, are calculated using your ability scores. To calculate the ability score modifiers, take your ability score, subtract 10, divide by 2, and round down to the nearest whole number. For example, if your constitution ability score is 15, your ability score modifier for charisma is __+2__. This is what you will write in the large boxes which contain your ability scores on your character sheet. In the smaller boxes underneath, you will keep track of your actual ability scores.
 
 ### Skills
 Now that you have your ability scores, we can determine what skills your character has. While ability scores represent overall characteristics of your character, skills represent the specific things your character is good at, and relate to each of the six ability score categories. For example, some skills that relate to charisma are *'persuasion'*, *'intimidation'*, and *'decption'*. Skills are the way you actually make use of your ability scores in most situations.
@@ -115,4 +115,4 @@ As you progress in the game, you will gain experience. As you collect this exper
 
 > __NOTE:__ Each level is also attached to advancement in a particular class. At level one, you select a class which is referred to as your *'base class'*. When you advance to level two, however, you can 'take a level' in another class. Taking a level of another class sometimes requires a minimum ability score related to that class.
 
-As you level up, you will gain higher bonuses to some of your abilities and skills. 
+As you level up, you will gain higher bonuses to some of your abilities, skills, and proficiencies. 

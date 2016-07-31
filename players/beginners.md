@@ -10,7 +10,7 @@ Both beginning, aspiring, and veteran players will find a use for this guide.
 - [Dice](#dice)
 - [Your Character](#your-character)
   - [Personality](#personality)
-  - [Consequences And Dying](#consequences-and-dying)
+  - [Consequences And Dying](#consequences--dying)
   - [Background](#background)
 - [The Numbers](#the-numbers)
   - [Ability Scores](#ability-scores)
@@ -50,7 +50,7 @@ __Player Knowledge__ describes the separation between what *you* know and what *
 
 Knowing this, it is more important to invent a character's background and personality based on who you want to be in the game, rather than choosing something because it will be the best.
 
-### Consequences And Dying
+### Consequences & Dying
 Over the course of playing the game, your character will likely run into many dangerous situations, any one of which could lead to your character's untimely end. Death is a touchy subject in D&D, and it can often be a difficult event. Players often become very attached to their characters, and when they die, it can be very difficult to cope with.
 
 Similarly, during your adventures, you will probably acquire some very unique items that give you some kind of advantage or provide some unique benefit to your character. In many cases, these items become as much a part of your character as their personality. However, it can happen that items get lost, broken, taken, or stolen from your character, and so you should never be overly upset if something happens to them.
@@ -85,6 +85,12 @@ The core ability scores that describe every character are:
 
 To determine these ability scores, you will need to roll __4d6__, taking the highest three numbers and adding them up. You can assign this number to any one of these six ability scores. Repeat this process six times to determine all of your ability scores.
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 15 | 14 | 13 | 12 | 10 | 8 |
+
+> __NOTE:__ It is important to note that the class you choose for your character will have a large bearing on which ability score should be one of your highest. The ability scores above would correspond to a close-quarters combat character, for example.
+
 > __NOTE:__ The PHB gives a detailed description of how to come up with your character's ability scores if you need further reference. Also, it is important to ask your DM if they have a particular method for determining ability scores.
 
 Once you have completed this portion, take a look at the description for your race, as there will often be a boost to one ability score or another.
@@ -95,12 +101,17 @@ Once you have these numbers, you need to calculate your *Ability Score Modifiers
 
 Ability score modifiers are what you will use instead of your actual ability scores. These are the numbers that matter when you actually roll the dice. The ability score modifiers, though, are calculated using your ability scores. To calculate the ability score modifiers, take your ability score, subtract 10, divide by 2, and round down to the nearest whole number. For example, if your constitution ability score is 15, your ability score modifier for charisma is __+2__. This is what you will write in the large boxes which contain your ability scores on your character sheet. In the smaller boxes underneath, you will keep track of your actual ability scores.
 
+| STR | DEX | CON | INT | WIS | CHA |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| +2 | +2 | +3 | +1 | +0 | -2 |
+| 15 | 14 | 16 | 12 | 10 | 7 |
+
 ### Skills
 Now that you have your ability scores, we can determine what skills your character has. While ability scores represent overall characteristics of your character, skills represent the specific things your character is good at, and relate to each of the six ability score categories. For example, some skills that relate to charisma are *'persuasion'*, *'intimidation'*, and *'decption'*. Skills are the way you actually make use of your ability scores in most situations.
 
 Skills are usually determined by a number of things, such as your character's race, class, and ability scores, but you do have some say in the matter. This comes in the form of *'proficiencies'*.
 
-Based on your character's race, class, and background, your character will be more 'proficient' in certain skills or with certain weapons or tools. This 'proficiency' grants a numeric bonus when utilizing a skill, weapon or tool you are proficient with. This is known as your character's *proficiency bonus*. This proficiency bonus is a fixed number that is denoted as a modifier.
+Based on your character's race, class, and background, your character will be more 'proficient' in certain skills or with certain weapons or tools. Proficiencies represent something your character is particularly adept at, and should factor in to your decision as to who your character will be in the game. This 'proficiency' grants a numeric bonus when utilizing a skill, weapon or tool you are proficient with. This is known as your character's *proficiency bonus*. This proficiency bonus is a fixed number that is denoted as a modifier.
 
 When you make your character, you will be able to select a few skills which you are proficient in. Refer to the PHB's section for your class to determine which skills you can select as proficiencies.
 
@@ -115,4 +126,4 @@ As you progress in the game, you will gain experience. As you collect this exper
 
 > __NOTE:__ Each level is also attached to advancement in a particular class. At level one, you select a class which is referred to as your *'base class'*. When you advance to level two, however, you can 'take a level' in another class. Taking a level of another class sometimes requires a minimum ability score related to that class.
 
-As you level up, you will gain higher bonuses to some of your abilities, skills, and proficiencies. 
+As you level up, you will gain higher bonuses to some of your abilities, skills, and proficiencies.

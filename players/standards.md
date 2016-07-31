@@ -13,18 +13,38 @@ A standard for Players. :dragon:
 - Avoid Coercing Others
 - Play As Your Character
 - No Meta-Gaming
+- [Preparation](#preparation)
+  - [Keep Your Character Sheet Clean](#keep-your-character-sheet-clean)
+  - [Keep Your Character Sheet Updated](#keep-your-character-sheet-updated)
+  - [Keep Notes](#keep-notes)
 - [Rolls](#rolls)
   - [No Unnecessary Rolls](#no-unnecessary-rolls)
 - [Combat](#combat)
   - [Have Your Actions Ready](#have-your-actions-ready)
   - [Know Your Rolls](#know-your-rolls)
   - [Know Your Actions](#know-your-actions)
-  - [Write Down Your Spell Descriptions](#write-down-your-spell-descriptions)
 
 
 <a name="the-dm's-word-is-law"></a>
-- [The DM's Word Is Law](#the-dm's-word-is-law)
-> __WHY?__
+- [The DM's Word Is Law](#the-dm's-word-is-law) :hammer:
+  > __WHY?__
+
+## Preparation
+
+<a name="keep-your-character-sheet-clean"></a>
+- [Keep Your Character Sheet Clean](#keep-your-character-sheet-clean) Keep your character sheet free of unnecessary notes or marks. Keep things organized and clear.
+  > __WHY?__
+
+<a name="keep-your-character-sheet-updated"></a>
+- [Keep Your Character Sheet Updated](#keep-your-character-sheet-updated) Keep your character sheet up to date with all of your equipment and stats.
+  > __WHY?__
+
+<a name="keep-notes"></a>
+- [Keep Notes](#keep-notes) Important details should be written down and tracked.
+  > __WHY?__
+
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Rolls
 

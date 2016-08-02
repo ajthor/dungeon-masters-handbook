@@ -10,11 +10,11 @@ Both beginning, aspiring, and veteran players will find a use for this guide.
 - [Dice](#dice)
 - [Your Character](#your-character)
   - [Personality](#personality)
-  - [Consequences And Dying](#consequences--dying)
   - [Background](#background)
 - [The Numbers](#the-numbers)
   - [Ability Scores](#ability-scores)
   - [Skills](#skills)
+  - [Levels](#level)
 
 ## Start Here
 Learning how to play *Dungeons and Dragons* __(D&D or dnd)__ :dragon: can be challenging without a guide. This is meant to be the ultimate guide for aspiring players to learn the ins and outs of actually sitting down to play the game.
@@ -27,10 +27,10 @@ The *Dungeon Master* __(DM)__ or *Game Master* __(GM)__, as they are sometimes k
 
 The DM is usually a more experienced player who also acts as the officiator for any rules decisions that need to be made in the game. If you have any questions about how things work, your first resource should always be the DM.
 
-> __NOTE:__ In D&D, the final ruling on any situation always comes from the DM. The DM's ruling supersedes the *Player's Handbook* __(PHB)__, and whatever the DM says is ultimately the final decision, and this decision should always be respected. If you are unsure about a rule, ask the DM for clarification.
+> __NOTE:__ :hammer: In D&D, the final ruling on any situation always comes from the DM. The DM's ruling supersedes the *Player's Handbook* __(PHB)__, and whatever the DM says is ultimately the final decision, and this decision should always be respected. If you are unsure about a rule, ask the DM for clarification.
 
 ## Dice
-Much of the game is decided using dice. To play D&D, you will need a set of dice. Dice come in numerous varieties, and with different numbers of sides. We describe the number of sides a die has using a shorthand notation of *'d'*. A standard 6-sided die, for example is called a __d6__. Similarly, a 20-sided die is called a __d20__. When multiple dice are rolled, we put the number of dice before the *'d'* in the shorthand notation. Rolling three 6-sided dice would be called __3d6__.
+:game_die: Much of the game is decided using dice. To play D&D, you will need a set of dice. Dice come in numerous varieties, and with different numbers of sides. We describe the number of sides a die has using a shorthand notation of *'d'*. A standard 6-sided die, for example is called a __d6__. Similarly, a 20-sided die is called a __d20__. When multiple dice are rolled, we put the number of dice before the *'d'* in the shorthand notation. Rolling three 6-sided dice would be called __3d6__.
 
 ## Your Character
 To begin, you will need to *come up with* a character. In Dungeons and Dragons, you are given the choice at the very beginning of to who you want to play as in the game. This character is how you interact with the world, and your character also determines how you should act inside the game.
@@ -99,7 +99,7 @@ Once you have completed this portion, take a look at the description for your ra
 
 Once you have these numbers, you need to calculate your *Ability Score Modifiers*.
 
-> __NOTE:__ :heavy_plus_sign: __Modifiers__ add a number to a die roll, and either add more to the total or subtract from it. Using the shorthand for dice mentioned above, we denote modifiers as either '+' or '-'. A modifier of __+2__ added to a die roll of __3d6__ would be described as __3d6+2__. You would calculate this by rolling __3d6__, taking the total from the dice, and adding two to that number.
+> :heavy_plus_sign: __Modifiers__ add a number to a die roll, and either add more to the total or subtract from it. Using the shorthand for dice mentioned above, we denote modifiers as either '+' or '-'. A modifier of __+2__ added to a die roll of __3d6__ would be described as __3d6+2__. You would calculate this by rolling __3d6__, taking the total from the dice, and adding two to that number.
 
 Ability score modifiers are what you will use instead of your actual ability scores. These are the numbers that matter when you actually roll the dice. The ability score modifiers, though, are calculated using your ability scores. To calculate the ability score modifiers, take your ability score, subtract 10, divide by 2, and round down to the nearest whole number. For example, if your constitution ability score is 15, your ability score modifier for charisma is __+2__. This is what you will write in the large boxes which contain your ability scores on your character sheet. In the smaller boxes underneath, you will keep track of your actual ability scores.
 
@@ -132,9 +132,16 @@ With a charisma modifier of +2 and a proficiency bonus of +2, using the skills d
 - [ ] __+2__ Intimidation
 - [x] __+4__ Persuasion
 
-### Level
+### Levels
 As you progress in the game, you will gain experience. As you collect this experience, you will inevitably become stronger than you were before. This advancement is represented by your character's *level*.
 
 As you level up, you will gain higher bonuses to some of your abilities, skills, and proficiencies. As you gain levels in your class, you will also gain special attributes known as *class features*. Features are unique to your class, race, and background, and help describe the effect that these choices have on your character. Higher levels in a particular class grant you more powerful abilities that make you more effective in certain situations you will encounter during the game.
 
-> __NOTE:__ Each level is also attached to advancement in a particular class. At level one, you select a class which is referred to as your *'base class'*. When you advance to level two, however, you can 'take a level' in another class. Taking a level of another class often requires a minimum ability score that directly relates to that class.
+Take a look at the PHB to see what features are granted to you by your decisions so far. Often, you will have one feature given to you by your race, another by your choice in background, and many, many features given to you by your class choices.
+
+> __NOTE:__ Each level is also attached to advancement in a particular class. At level one, you select a class which is referred to as your *'base class'*. When you advance to level two, however, you can 'take a level' in another class. Taking a level of another class often requires a minimum ability score that directly relates to that class. This type of advancement is called *'multi-classing'*. When you do this, it is important to differentiate between your character's overall level and the levels you have taken in particular classes, as this will be important later.
+
+To figure out how your level affects your character, we need to introduce a few new concepts.
+
+- __Hit Points (HP)__ represent how much health your character has. Your hit points will decrease when your character 
+- __Hit Dice (HD)__ are how you calculate your hit points, and also how you replenish them. Every level
